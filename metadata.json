@@ -1,0 +1,6 @@
+{
+  "name": "CineAI Studio",
+  "description": "Personal modular AI creative studio with chat assistant, image & video creation, prompt enhancer, YouTube scene analyzer, and project asset management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
